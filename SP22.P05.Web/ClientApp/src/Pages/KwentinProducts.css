@@ -1,0 +1,100 @@
+.tagger {
+    margin-bottom: 10px;
+    border-style: none none solid none;
+    border-color: #a10305;
+}
+
+.section-heading {
+    margin: 1rem;
+  }
+
+.label {
+    text-align: center;
+    margin: auto;
+    background-color: #a10305;
+    color: white;
+}
+  
+  .col {
+    padding-bottom: 1rem;
+  }
+  
+  .row {
+      display: flex;
+      justify-content: flex-start;
+      overflow-y: hidden;
+  }
+  
+  .rows {
+      margin-bottom: 100px;
+      display: flex;
+      justify-content: flex-start;
+  }
+  
+  .button {
+      display: flex;
+      justify-content: flex-end;
+      position: sticky;
+      top: 4rem;
+      margin-right: 10px;
+  }
+  
+  .filler {
+      color: white
+  }
+  
+  .thebut {
+      color: white;
+      background-color: black;
+      border-radius: 6px;
+      padding: 6px;
+  }
+  
+  .flex {
+      display: flex;
+      justify-content: flex-start;
+  }
+  
+  .card-btn {
+      width: 275px;
+      display: flex;
+      justify-content: center;
+  }
+  
+      /* formating view product button */
+      .card-btn:hover {
+          background-color: #56c596;
+          border: none;
+          transition: 0.2s;
+          border-radius: 0.2rem;
+      }
+
+.spacer {
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.r294 {
+    width: 275px;
+}
+
+.cardies {
+    margin-right: 35px;
+}
+
+.cont {
+    background-color: grey;
+    min-height: 95vh;
+    display: flex;
+    justify-content: center;
+}
+
+.roww {
+    position: relative;
+    padding: 32px;
+    width: 100%;
+    max-width: 150vh;
+    background-color: white;
+    min-height: 95vh;
+}

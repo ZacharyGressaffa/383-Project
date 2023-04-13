@@ -1,0 +1,77 @@
+/* setting the looks of the card as a whole */
+.card-container {
+  width: 275px;
+  overflow: hidden;
+  box-shadow: 0px 0px 15px -5px;
+  transition: 0.5s;
+  animation: ease-in;
+}
+
+/* creating the hover affect on the cards ... can remove */
+/*.card-container:hover {
+  transform: scale(0.9);
+  box-shadow: 0px 0px 15px 0px;
+}
+
+/* top image of the card */
+.image-container img {
+  overflow: hidden;
+  height: 200px;
+  width: 100%;
+  /* height: 7vw; */
+  object-fit: cover;
+}
+
+.card-content {
+  margin: 1rem;
+  margin-top: 0.75rem;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.card-btn {
+    width: 275px;
+    display: flex;
+    justify-content: center;
+}
+
+    /* formating view product button */
+    .card-btn button {
+        padding: 0.5rem;
+        background-color: white;
+        border: none;
+        transition: 0.2s;
+        /* margin-bottom: 0.5rem; */
+        margin-left: 0.5rem;
+        border-radius: 0.2rem;
+    }
+
+.card-btn-cart {
+    background-color: #1b9cfc !important;
+}
+
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.card-title {
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+
+
+/* highlighting the button when hovering over */
+/* .card-btn button:hover {
+  background: rgba(27, 156, 252, 0.1);
+} */
+
+a {
+  color: #1b9cfc;
+  text-decoration: none;
+  font-weight: bold;
+}

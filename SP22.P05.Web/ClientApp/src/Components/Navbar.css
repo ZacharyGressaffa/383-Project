@@ -1,0 +1,45 @@
+.all {
+  margin: 0;
+  background-color: #205072;
+  overflow: hidden;
+}
+
+.smoke {
+  margin-right: 4px;
+  padding: 2px;
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  background-color: #56c596;
+}
+
+.logbtn {
+  font-size: 14px;
+  color: #56c596;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: #8c8c8c;
+}
+
+.logbtn:hover {
+  transition: 0.4s;
+  color: white;
+}
+
+.home {
+    text-decoration: none;
+    color: #f2f2f2;
+    padding-right: 15px;
+    padding-top: 4px;
+    font-size: 25px;
+}
+
+    .home:hover {
+        transition: 0.4s;
+        color: white;
+    }
+
+.fa-circle-user {
+    color: darkgrey;
+}

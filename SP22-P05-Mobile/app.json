@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "SP22-P05-Mobileg-g02",
+    "slug": "SP22-P05-Mobile-g02",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/SMOKE_Other.png",
+    "splash": {
+      "image": "./assets/SMOKE_Other.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.selu383.sp22.g02"
+    },
+    "web": {
+      "favicon": "./assets/SMOKE_Other.png"
+    }
+  }
+}

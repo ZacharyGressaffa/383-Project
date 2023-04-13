@@ -1,0 +1,24 @@
+.top-txt-section {
+  text-align: center;
+}
+
+.btn-bi-style {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10px 0;
+}
+
+.bi-cart4 {
+  float: right;
+  font-size: 2rem;
+  padding-right: 1rem;
+}
+
+.card-btn {
+  background-color: grey;
+  border-color: grey;
+}
+
+.card-footer {
+  padding-left: 1rem;
+}
